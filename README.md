@@ -8,3 +8,4 @@ First time I learnt how to use API and how to implement it in this project used 
 Potentially while the user searches for the name of a movie, could maybe add more images at the start of maybe change the colour of the background to look better and more appealing. 
 
 #Deployment
+https://moviestuff2.netlify.app/
